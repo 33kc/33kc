@@ -7,3 +7,5 @@ Hi there! I'm kc, a Roblox developer and a Discord bot developer.
 - Discord: 33kc
 - Roblox: KC3LYX (Currently on a break from Roblox development)
 - Twitter: 33kc_
+
+**What I'm working on:**
